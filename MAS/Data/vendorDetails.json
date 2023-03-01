@@ -1,0 +1,14 @@
+[
+    {
+        "vendor_id": 12,
+        "code_numers": "4, 5, 6",
+        "vendor_name": "Raju",
+        "vendor_address": " D.NO-124, Golbazar, Hyderabad"
+    },
+    {
+        "vendor_id": 16,
+        "code_numers": "675",
+        "vendor_name": "Ramu",
+        "vendor_address": " D.NO-35, Madhapur, Hyderabad"
+    }
+]
